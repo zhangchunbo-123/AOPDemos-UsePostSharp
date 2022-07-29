@@ -1,0 +1,2 @@
+D:\Projects\Demos\AOPDemos\AOP\AOPHelper\obj\Debug\AOPHelper.csproj.AssemblyReference.cache
+D:\Projects\Demos\AOPDemos\AOP\AOPHelper\obj\Debug\AOPHelper.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+D:\Projects\Demos\AOPDemos\AOP\AOPDemo\obj\Debug\AOPDemo.Form1.resources
+D:\Projects\Demos\AOPDemos\AOP\AOPDemo\obj\Debug\AOPDemo.Properties.Resources.resources
+D:\Projects\Demos\AOPDemos\AOP\AOPDemo\obj\Debug\AOPDemo.csproj.GenerateResource.cache
+D:\Projects\Demos\AOPDemos\AOP\AOPDemo\obj\Debug\AOPDemo.csproj.CoreCompileInputs.cache

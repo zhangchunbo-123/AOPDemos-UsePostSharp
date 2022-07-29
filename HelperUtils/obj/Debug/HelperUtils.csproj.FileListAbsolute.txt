@@ -1,0 +1,5 @@
+D:\Projects\Demos\AOPDemos\AOP\HelperUtils\bin\Debug\HelperUtils.dll
+D:\Projects\Demos\AOPDemos\AOP\HelperUtils\bin\Debug\HelperUtils.pdb
+D:\Projects\Demos\AOPDemos\AOP\HelperUtils\obj\Debug\HelperUtils.csproj.CoreCompileInputs.cache
+D:\Projects\Demos\AOPDemos\AOP\HelperUtils\obj\Debug\HelperUtils.dll
+D:\Projects\Demos\AOPDemos\AOP\HelperUtils\obj\Debug\HelperUtils.pdb
